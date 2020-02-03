@@ -13,3 +13,6 @@
 
 ## videos
 * [Ask HN: Favorite YouTube channels under a million subscribers](https://news.ycombinator.com/item?id=21429068)
+
+## bücher
+* (https://patrickcollison.com/bookshelf)
