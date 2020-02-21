@@ -3,7 +3,6 @@
 
 
 ## talks
-
 * Raymond Hettinger, [The Mental Game of Python](https://youtu.be/UANN2Eu6ZnM)
 * What's Coming in 3.8 - [Assignment Expressions & More](https://youtu.be/OtdQN24Z5MA)
 * The Art of Code - [link](https://youtu.be/gdSlcxxYAA8)
@@ -18,5 +17,8 @@
 * [bookshelf von patrick collision ](https://patrickcollison.com/bookshelf)
 (
 
-## lernen
+## mathe
 * [Gilbert](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) Strang: Lineare Algebra
+
+## tools
+* [Unix](http://cb.vu/unixtoolbox.xhtml) Toolbox
