@@ -18,5 +18,5 @@
 * [bookshelf von patrick collision ](https://patrickcollison.com/bookshelf)
 (
 
-## Lernen
+## lernen
 * [Gilbert](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) Strang: Lineare Algebra
