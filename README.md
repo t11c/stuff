@@ -1,5 +1,5 @@
 ## blogs/news
-
+* Liste mit devblogs, auf [HN](https://news.ycombinator.com/item?id=22273224)
 
 
 ## talks
@@ -16,3 +16,4 @@
 
 ## bücher
 * [bookshelf von patrick collision ](https://patrickcollison.com/bookshelf)
+(
