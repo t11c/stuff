@@ -22,3 +22,4 @@
 
 ## tools
 * [Unix](http://cb.vu/unixtoolbox.xhtml) Toolbox
+* [Awesome opensource](https://awesomeopensource.com/)
