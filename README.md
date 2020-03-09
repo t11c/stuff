@@ -1,5 +1,6 @@
 ## blogs/news
 * Liste mit devblogs, auf [HN](https://news.ycombinator.com/item?id=22273224)
+* [Spreadsheet Mistakes](http://www.eusprig.org/horror-stories.htm) Was so alles schief geht mit Excel
 
 
 ## talks
