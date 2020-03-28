@@ -27,18 +27,18 @@
 * [Awesome opensource](https://awesomeopensource.com/)
 
 ## Coronazeit
-#### Arbeit
+### Arbeit
 * [Jitsi Server von Freifunk München](https://meet.ffmuc.net/)
 
-#### Feierabend
+### Feierabend
 
-### Video
+#### Video
 * [Arthouse Filme](https://grandfilm.de/grandfilmondemand/)
 * Filme per BibKonto (VÖBB) [Filmfreunde](https://voebb.filmfriend.de/de/home)
 * Filme per BibKonto (VÖBB) [AVA](https://voebb.ava.watch/)
 
-### Bücher
+#### Bücher
 
-### Musik
+#### Musik
 
-### Podcast
+#### Podcast
