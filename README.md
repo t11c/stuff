@@ -25,3 +25,20 @@
 ## tools
 * [Unix](http://cb.vu/unixtoolbox.xhtml) Toolbox
 * [Awesome opensource](https://awesomeopensource.com/)
+
+## Coronazeit
+#### Arbeit
+* [Jitsi Server von Freifunk München](https://meet.ffmuc.net/)
+
+#### Feierabend
+
+### Video
+* [Arthouse Filme](https://grandfilm.de/grandfilmondemand/)
+* Filme per BibKonto (VÖBB) [Filmfreunde](https://voebb.filmfriend.de/de/home)
+* Filme per BibKonto (VÖBB) [AVA](https://voebb.ava.watch/)
+
+### Bücher
+
+### Musik
+
+### Podcast
