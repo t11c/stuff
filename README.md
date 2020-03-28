@@ -17,6 +17,7 @@
 ## bücher
 * [bookshelf von patrick collision ](https://patrickcollison.com/bookshelf)
 * [Mathematics for the self learner](https://www.neilwithdata.com/mathematics-self-learner) ein paar Buchtipps für Mathe
+* [Book Recommendations from Hacker News](https://mapfilterfold.com/)
 
 ## mathe
 * [Gilbert](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) Strang: Lineare Algebra
