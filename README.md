@@ -1,3 +1,27 @@
+## Coronazeit
+
+* Infos, zusammengetragen (https://github.com/cwoomi/cert-covid19)
+* für Freiwilige (https://nerdfallmedizin.blog/freiwillige/)
+
+### Arbeit
+* [Jitsi Server von Freifunk München](https://meet.ffmuc.net/)
+
+### Feierabend
+
+#### Video
+* Von Grand Film, zum Bezahlen, Filme bei [Vimeo](https://grandfilm.de/grandfilmondemand/)
+* Filme per BibKonto (VÖBB) [Filmfreunde](https://voebb.filmfriend.de/de/home)
+* Filme per BibKonto (VÖBB) [AVA](https://voebb.ava.watch/)
+
+#### Bücher
+
+#### Musik
+
+#### Podcast
+
+
+
+
 ## blogs/news
 * Liste mit devblogs, auf [HN](https://news.ycombinator.com/item?id=22273224)
 * [Spreadsheet Mistakes](http://www.eusprig.org/horror-stories.htm) Was so alles schief geht mit Excel
@@ -27,19 +51,3 @@
 * [Unix](http://cb.vu/unixtoolbox.xhtml) Toolbox
 * [Awesome opensource](https://awesomeopensource.com/)
 
-## Coronazeit
-### Arbeit
-* [Jitsi Server von Freifunk München](https://meet.ffmuc.net/)
-
-### Feierabend
-
-#### Video
-* Von Grand Film, zum Bezahlen, Filme bei [Vimeo](https://grandfilm.de/grandfilmondemand/)
-* Filme per BibKonto (VÖBB) [Filmfreunde](https://voebb.filmfriend.de/de/home)
-* Filme per BibKonto (VÖBB) [AVA](https://voebb.ava.watch/)
-
-#### Bücher
-
-#### Musik
-
-#### Podcast
