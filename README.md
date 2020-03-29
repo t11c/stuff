@@ -1,8 +1,8 @@
 ## Coronazeit
 
-* Infos, zusammengetragen (https://github.com/cwoomi/cert-covid19)
-* für Freiwilige (https://nerdfallmedizin.blog/freiwillige/)
-* #maskeauf (https://maskeauf.de)
+* Infos, zusammengetragen [github](https://github.com/cwoomi/cert-covid19)
+* für Freiwilige [link](https://nerdfallmedizin.blog/freiwillige/)
+* [#maskeauf](https://maskeauf.de)
 
 ### Arbeit
 * [Jitsi Server von Freifunk München](https://meet.ffmuc.net/)
