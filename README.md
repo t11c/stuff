@@ -39,6 +39,7 @@
 
 ## videos
 * [Ask HN: Favorite YouTube channels under a million subscribers](https://news.ycombinator.com/item?id=21429068)
+* link für J [link](https://www.tcm.ac/course/strengthening-immune-system/)
 
 ## bücher
 * [bookshelf von patrick collision ](https://patrickcollison.com/bookshelf)
