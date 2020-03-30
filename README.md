@@ -3,6 +3,7 @@
 * Infos, zusammengetragen [github](https://github.com/cwoomi/cert-covid19)
 * für Freiwilige [link](https://nerdfallmedizin.blog/freiwillige/)
 * [#maskeauf](https://maskeauf.de)
+* noch ein Artikel zu [maskenforschung](https://www.scmp.com/news/hong-kong/health-environment/article/3050689/how-make-your-own-mask-hong-kong-scientists)
 
 ### Arbeit
 * [Jitsi Server von Freifunk München](https://meet.ffmuc.net/)
