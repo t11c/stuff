@@ -43,7 +43,7 @@
 * link für J [link](https://www.tcm.ac/course/strengthening-immune-system/)
 
 ## bücher
-sind auch [hier](buecher)
+sind auch [hier](buecher.md)
 * [bookshelf von patrick collision ](https://patrickcollison.com/bookshelf)
 * [Mathematics for the self learner](https://www.neilwithdata.com/mathematics-self-learner) ein paar Buchtipps für Mathe
 * [Book Recommendations from Hacker News](https://mapfilterfold.com/)
